@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/amandi-pathirana-3a0135219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amandi pathirana" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20426064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20426064" height="30" width="40" /></a>
 <a href="https://fb.com/amandi pathirana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amandi pathirana" height="30" width="40" /></a>
-<a href="https://instagram.com/___amndi___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___amndi___" height="30" width="40" /></a>
+<a href="https://instagram.com/___amndi___?igshid=MzNlNGNkZWQ4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___amndi___" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
