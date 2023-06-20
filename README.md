@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@pathiranaamandi" target="blank"><img src="https://img.shields.io/twitter/follow/@pathiranaamandi?logo=twitter&style=for-the-badge" alt="@pathiranaamandi" /></a> </p>
 
-- 📫 How to reach me **amapamuditha@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/amandi-pathirana-3a0135219/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
